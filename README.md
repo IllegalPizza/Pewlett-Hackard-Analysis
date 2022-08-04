@@ -6,7 +6,8 @@
 
 ## Results
 
-- There are 72,458 employees reaching retirement soon. The mentopship elibability analysis returned only 1549 employees. 
+- There are 72,458 employees reaching retirement soon. 
+- The mentopship elibability analysis returned only 1549 employees. 
 
 ## Summary
 
