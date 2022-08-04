@@ -8,6 +8,8 @@
 
 - There are 72,458 employees reaching retirement soon. 
 - The mentopship elibability analysis returned only 1549 employees. 
+- Senior Engineer and Senior Staff will see the heaiviest level of retirement. 
+- Only 2 Managers are retiring. 
 
 ## Summary
 
